@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/7ba56d76-aa4a-4340-9a6d-5ee92ffc9b86" />CPU Scheduling is the process by which an operating system decides which process should be given the CPU when multiple processes are ready for execution.
 The main purpose of CPU scheduling is to use the CPU efficiently while ensuring that all processes get a fair chance to execute. By properly scheduling processes, the system can reduce waiting time, improve response time, and increase overall performance.
-CPU scheduling can be preemptive, where a running process can be interrupted, or non-preemptive, where a process runs until it completes. Common CPU scheduling algorithms include FCFS, SJF, Priority Scheduling, and Round Robin.![Uploading Screenshot (149).png…]()
+CPU scheduling can be preemptive, where a running process can be interrupted, or non-preemptive, where a process runs until it completes. Common CPU scheduling algorithms include FCFS, SJF, Priority Scheduling, and Round Robin.<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/79cf1729-048d-4463-8e25-c8890f563015" />
 
 
 In simple terms, CPU scheduling acts like a traffic controller, deciding which process moves forward and when, so the system runs smoothly and efficiently.
@@ -45,4 +45,5 @@ Response Time
 
 
 
-CPU scheduling plays a vital role in operating systems by ensuring that CPU time is shared efficiently and fairly among all processes, leading to better system performance.
+CPU scheduling plays a vital role in operating systems by ensuring that CPU time is shared efficiently and fairly among all processes, leading to better system performance.![Uploading Screenshot (149).png…]()
+
